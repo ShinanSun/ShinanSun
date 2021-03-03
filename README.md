@@ -1,8 +1,6 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png 'Header')](./sunshine_dev.jpg)
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Shinan Sun. Welcome to <img src="./sunshine_dev.jpg" width="auto" height="30px">
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Shinan Sun.
-
-<img src="https://raw.githubusercontent.com/ShinanSun/ShinanSun/main/Shinan_Sun.png" alt="Hi there! I'm Shinan Sun" title="Hi there! It's Shinan!"/>
+<img src="./header.png" width="100%" alt="Hi there! I'm Shinan Sun" title="Hi there! It's Shinan!"/>
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/shinansun/) [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:shinansun0516@gmail.com) [<img alt="Instagram" src="https://img.shields.io/badge/shinansun%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/) [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/fuji.sun)
 
