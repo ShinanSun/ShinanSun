@@ -9,7 +9,7 @@
 - :computer: Full-stack software engineer
 - 🔭 Graduated with Bacholar of Science at Weber State University in Utah.
 - :mortar_board: Hack Reactor Austin Campus
-- 🌱 Stay Hunger Stay Foolish, said by Steve Jobs.
+- 🌱 Favorite Quote: "Stay Hunger Stay Foolish", by Steve Jobs.
 - 👯 Passion about problem solving, algorithms, backend data structure and building useful applications that actually play a role in people's life.
 - :earth_americas: I believe that software has the power to unlock new possibilities for people and our planet.
 
