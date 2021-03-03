@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Shinan Sun.
+# Welcome, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Shinan Sun.
 
 <img src="./header.png" width="100%" alt="Hi there! I'm Shinan Sun" title="Hi there! It's Shinan!"/>
 
